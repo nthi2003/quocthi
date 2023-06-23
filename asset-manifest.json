@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/quocthi/static/css/main.02690677.css",
+    "main.js": "/quocthi/static/js/main.2c6f7f79.js",
+    "static/js/787.28cb0dcd.chunk.js": "/quocthi/static/js/787.28cb0dcd.chunk.js",
+    "static/media/thi.jpg": "/quocthi/static/media/thi.de6c939902411d90fda8.jpg",
+    "static/media/pc.jpg": "/quocthi/static/media/pc.9253b6aea0d08543e628.jpg",
+    "index.html": "/quocthi/index.html",
+    "main.02690677.css.map": "/quocthi/static/css/main.02690677.css.map",
+    "main.2c6f7f79.js.map": "/quocthi/static/js/main.2c6f7f79.js.map",
+    "787.28cb0dcd.chunk.js.map": "/quocthi/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02690677.css",
+    "static/js/main.2c6f7f79.js"
+  ]
+}
