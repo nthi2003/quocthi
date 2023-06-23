@@ -1,0 +1,12 @@
+:focus-visible {outline-color:#af7979}
+::-webkit-scrollbar{
+  width: 6px;
+  height: 8px;
+ 
+
+}
+::-webkit-scrollbar-thumb{
+  background-color: #CD1818;
+  border-radius: 2px;
+  
+}
